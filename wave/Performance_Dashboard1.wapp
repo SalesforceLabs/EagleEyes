@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folder>FScalePerf__Performance_Dashboard1</folder>
+    <masterLabel>Performance Dashboard</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>speddireddy@eagleeyesdev.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </shares>
+</WaveApplication>

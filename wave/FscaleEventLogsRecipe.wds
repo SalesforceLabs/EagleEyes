@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveDataset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <application>FScalePerf__Performance_Dashboard1</application>
+    <description>Created from the FscaleEventLogsRecipe recipe.</description>
+    <masterLabel>FscaleEventLogsRecipe</masterLabel>
+</WaveDataset>
